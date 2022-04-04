@@ -1,5 +1,7 @@
-# bruh why you guys forking this shit, just use the [jigsaw's port](https://github.com/jigsaw-4277821/PE-0.5.2h-Android)
-# i not interested to update this repo, so i archive it <3
+# Credits to leername for kade 1.5.4 port 
+
+# GO PLAY MOD NOW
+definite version:.[gamebanana] (https://gamebanana.com/mods/354884)
 
 ![Kade Engine logo](assets/preload/images/KadeEngineLogo.png)
 
