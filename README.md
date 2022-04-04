@@ -1,7 +1,7 @@
 # Credits to leername for kade 1.5.4 port 
 
 # GO PLAY MOD NOW
-definite version:.[gamebanana] (https://gamebanana.com/mods/354884)
+Definitive version: [gamebanana](https://gamebanana.com/mods/354884)
 
 ![Kade Engine logo](assets/preload/images/KadeEngineLogo.png)
 
